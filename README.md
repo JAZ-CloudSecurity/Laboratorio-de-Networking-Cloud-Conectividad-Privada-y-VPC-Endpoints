@@ -5,7 +5,7 @@ Este proyecto documenta la implementación de una red empresarial en AWS diseña
 ## 🏗️ Resumen de la Arquitectura
 La infraestructura se despliega en la región **us-east-1** y se compone de una VPC con segmentación de subredes públicas y privadas. El corazón del proyecto es la comunicación interna hacia servicios como **S3** y **SSM** sin utilizar un NAT Gateway o Internet Gateway para el tráfico privado.
 
-![Arquitectura general](images/Arquitectura Zero-Trust y Conectividad Privada.png)
+![Arquitectura general](images/Arquitectura%20Zero-Trust%20y%20Conectividad%20Privada.png)
 
 ## 🛠️ Hitos Técnicos
 
